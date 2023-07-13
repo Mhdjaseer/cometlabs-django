@@ -21,7 +21,7 @@ To deploy this project run
 1. Clone the repository:
 
 ```bash
-
+https://github.com/Mhdjaseer/cometlabs-django.git
 ```
 or download the zip file 
 
